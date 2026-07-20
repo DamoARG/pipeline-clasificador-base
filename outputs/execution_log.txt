@@ -1,0 +1,5 @@
+Versión de PyTorch: 2.10.0+cpu
+Dispositivo seleccionado: cpu
+Validation Loss final: 0.0903
+Validation Accuracy final: 96.67%
+Ejecución verificada correctamente el 20/07/2026.
